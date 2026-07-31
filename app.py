@@ -4,7 +4,7 @@ Motor de análisis de valor para apuestas MLB con simulación Monte Carlo.
 """
 
 import numpy as np
-from mlb_statsapi import statsapi 
+import statsapi 
 import requests
 import warnings
 from datetime import datetime
